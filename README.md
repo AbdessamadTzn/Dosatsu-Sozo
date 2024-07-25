@@ -1,11 +1,15 @@
 # Dosatsu-Sozo
+
 Dosatsu Sozo is a data analysis project aimed at exploring diverse datasets, deriving insights, and presenting conclusions through systematic data analysis techniques.<br>
+
 ## Datasets
 
-| Dataset Name | Description                            | Source/Link  | Contributor   |
-|--------------|----------------------------------------|--------------|---------------|
-| Top_Anime_data.csv | This dataset offers a comprehensive overview of the top animes of 2024, and is useful for building recommendation systems, visualizing trends in anime popularity and score, predicting scores and popularity, and such.              | [Link](https://www.kaggle.com/datasets/bhavyadhingra00020/top-anime-dataset-2024)  | Abdessamad Touzani    |
-| dataset2.csv | Description of dataset 2               | [Link](URL)  | Contributor 2 |
+| Dataset Name                                           | Description                                                                                                                                                                                                              | Source/Link                                                                       | Contributor        |
+| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------- | ------------------ |
+| Top_Anime_data.csv                                     | This dataset offers a comprehensive overview of the top animes of 2024, and is useful for building recommendation systems, visualizing trends in anime popularity and score, predicting scores and popularity, and such. | [Link](https://www.kaggle.com/datasets/bhavyadhingra00020/top-anime-dataset-2024) | Abdessamad Touzani |
+| Airplane_Crashes_and_Fatalities_Since_1908_t0_2023.csv | The dataset contains data of airplane accidents involving civil, commercial and military transport worldwide from 1908-09-17 to 2009-06-08.                                                                              | [Link](https://www.kaggle.com/datasets/saurograndi/airplane-crashes-since-1908)   | Abdessamad Touzani |
+| dataset3.csv                                           | Description of dataset 3                                                                                                                                                                                                 | [Link](URL)                                                                       | Contributor 3      |
+| dataset4.csv                                           | Description of dataset 4                                                                                                                                                                                                 | [Link](URL)                                                                       | Contributor 4      |
 
 ## Analysis Steps
 
@@ -37,6 +41,7 @@ Dosatsu Sozo is a data analysis project aimed at exploring diverse datasets, der
 
 - **[Abdessamad Touzani (Owner)](https://www.linkedin.com/in/abdessamadtouzani/)**
 - **Your name(linkedinURL)**
+
 ## How to Contribute
 
 1. Fork the repository.
@@ -44,5 +49,3 @@ Dosatsu Sozo is a data analysis project aimed at exploring diverse datasets, der
 3. Commit your changes (`git commit -m 'Add some feature'`).
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Create a new Pull Request.
-
-
