@@ -1,6 +1,6 @@
 # Dosatsu-Sozo
 
-Dosatsu Sozo is a data analysis project aimed at exploring diverse datasets, deriving insights, and presenting conclusions through systematic data analysis techniques.<br>
+Dosatsu Sozo is an open source data analysis project aimed at exploring diverse datasets, deriving insights, and presenting conclusions through systematic data analysis techniques.<br>
 
 ## Datasets
 
